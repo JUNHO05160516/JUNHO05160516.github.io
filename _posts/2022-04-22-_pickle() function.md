@@ -2,7 +2,7 @@
 layout: single
 title:  "[파이썬(Python)] _pickle() 함수"
 categories: Python
-tag: [Python, 파이썬, startswith()]
+tag: [Python, 파이썬, _pickle(), cpickle]
 toc: true
 toc_sticky: true
 toc_label: '페이지 주요 목자'
