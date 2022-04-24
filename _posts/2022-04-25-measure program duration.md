@@ -1,4 +1,18 @@
-# [파이썬(Python)] 프로그램 시간 측정
+---
+layout: single
+title:  "[파이썬(Python)] 프로그램 시간 측정"
+categories: Python
+tag: [Python, 파이썬, timeit, timeit.default_timer()]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+## 프로그램 시간 측정
 파이썬에서 프로그램을 실행했을 때, 해당 프로그램이 돌아간 시간을 측정하는 방법에 대해 알아보자. start 변수에 timeit.default_timer() 세팅하고, end에도 마찬가지로 작성한다. 그 사이에 내가 실행하고자 하는 코드를 작성한다.
 
 
