@@ -1,4 +1,17 @@
-# [파이썬(Python)] map 함수
+---
+layout: single
+title:  "[파이썬(Python)] map 함수"
+categories: Python
+tag: [Python, 파이썬, read(), strip(), replace()]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+# map 함수
 
 ## 1. map 함수 설명과 사용법
 
