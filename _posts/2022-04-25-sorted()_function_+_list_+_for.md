@@ -2,7 +2,7 @@
 layout: single
 title:  "[파이썬(Python)] sorted 함수 + list 내부에서 반복문 작성 연습"
 categories: Python
-tag: [Python, 파이썬, startswith()]
+tag: [Python, 파이썬, sorted(), for 문]
 toc: true
 toc_sticky: true
 toc_label: '페이지 주요 목자'
@@ -10,11 +10,6 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-
-
-
-
-
 
 
 
