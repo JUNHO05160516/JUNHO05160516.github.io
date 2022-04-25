@@ -2,7 +2,7 @@
 layout: single
 title:  "[파이썬(Python)] map 함수"
 categories: Python
-tag: [Python, 파이썬, read(), strip(), replace()]
+tag: [Python, 파이썬, map(), lamda]
 toc: true
 toc_sticky: true
 toc_label: '페이지 주요 목자'
@@ -11,11 +11,11 @@ sidebar:
     nav: "docs"
 ---
 
-# map 함수
+## map 함수
 
-## 1. map 함수 설명과 사용법
+### 1. map 함수 설명과 사용법
 
-### 1-1) 파이썬 맵 함수 기본 설명
+#### 1-1) 파이썬 맵 함수 기본 설명
 
 map(function, iterable)
 
@@ -26,7 +26,7 @@ map () 함수의 반환 값은 map 객체 이기 때문에 해당 자료형을 l
 따라서, map (적용시킬 함수, 적용할 값들) 식이다.
 예를 들어 첫 번째 인자 값에 +1 을 더해주는 함수라고 하고 두 번째 인자에 [1,2,3,4,5] 라는 리스트를 집어 넣으면 함수 모양은 아래와 같고 map (값에 +1 을 더해주는 함수, [1,2,3,4,5]) 함수의 반환을 list()로 감싸주면 [2,3,4,5,6] 이 되는 함수이다.
 
-### 1-2) map 함수를 사용하는 것과 아닌 것의 차이
+#### 1-2) map 함수를 사용하는 것과 아닌 것의 차이
 
 
 
@@ -58,9 +58,9 @@ print(f'result2 : {result2}')
     result2 : [2, 3, 4, 5, 6]
     
 
-## 2. map 함수 예제
+### 2. map 함수 예제
 
-### 2-1) 리스트와 map 함수
+#### 2-1) 리스트와 map 함수
 
 
 ```python
@@ -97,7 +97,7 @@ print(f'map(func_ceil, 리스트) : {result3}')
     map(func_ceil, 리스트) : [2, 3, 4, 5, 6, 7]
     
 
-### 2-2) 람다와 map 함수
+#### 2-2) 람다와 map 함수
 
 
 ```python
