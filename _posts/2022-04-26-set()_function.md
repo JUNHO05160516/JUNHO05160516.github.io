@@ -1,4 +1,17 @@
-# [파이썬(Python)] set() 함수
+---
+layout: single
+title:  "[파이썬(Python)] set() 함수"
+categories: Python
+tag: [Python, 파이썬, set(), list(set())]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+## set() 함수
 set() 함수를 사용하면 중복되는 값들을 제거해주고, 대표되는 한 문자만 살린다. 본래 가지고 있던 순서는 없어지고, sorted 를 수행해서 정렬을 하게 된다.
 
 
