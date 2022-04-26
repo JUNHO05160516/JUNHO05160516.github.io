@@ -1,4 +1,23 @@
-# [파이썬(Python)] 난수 (Random Numbers) 생성
+---
+layout: single
+title:  "[파이썬(Python)] 난수 (Random Numbers) 생성"
+categories: Python
+tag: [Python, 파이썬, random.random, random, random number]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
+
+
+
+### 난수 (Random Numbers) 생성
 동일한 입력을 받을 때, 대부분의 컴퓨터는 매번 동일한 출력값을 생성하는 것을 결정적 (deterministric) 이라고 한다. 하지만 어떤 응용 프로그램에 대해서 컴퓨터가 예측 불가능하길 바라는 경우도 있다. 예를 들어 게임이다.
 
 비결정론적인 것처럼 보이게 하는 방법이 있다. 의사 난수 (pseudo-random numbers)를 생성하는 알고리즘을 사용하는 방법이다. 의사 난수는 이미 결정된 연산에 의해서 생성된다는 점에서 진정한 의미의 난수는 아니지만, 이렇게 생성된 숫자만 봐서는 진정한 난수와 구별하는 것은 불가능에 가깝다.
