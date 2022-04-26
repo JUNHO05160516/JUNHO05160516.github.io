@@ -1,4 +1,19 @@
-# [파이썬(Python)] range() 함수
+---
+layout: single
+title:  "[파이썬(Python)] range() 함수"
+categories: Python
+tag: [Python, 파이썬, range()]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+## [파이썬(Python)] range() 함수
 range() 함수는 증가하는 리스트를 생성해주는 함수이다.
 
 ### range(a,b,c) <br/>
