@@ -1,4 +1,23 @@
-# [파이썬(Python)] 변수 갱신 연습
+---
+layout: single
+title:  "[파이썬(Python)] 변수 갱신 연습"
+categories: Python
+tag: [Python, 파이썬, variable, 변수]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
+
+
+
+## 변수 갱신 연습
 흔한 패턴은 변수를 갱신하는 대입문이다. 변수의 새로운 값은 이전 값에 의존한다.
 
 
