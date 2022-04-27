@@ -1,4 +1,18 @@
-# [생물정보학 (Bioinformatics)] complement 만들기
+---
+layout: single
+title:  "[생물정보학 (Bioinformatics)] complement 만들기"
+categories: Python
+tag: [Python, 파이썬, complement]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+## complement 만들기
 상보적인 관계를 가지고 있는 DNA 에서 read 방향을 고려하면 ACTG 라고 된 read 가 있다면 반대로 읽으면서 상보적인 관계로 읽어야 한다. 그러면 G 의 complement 인 C 가 먼저 오고 거꾸로 읽어서 방향성을 고려한 complement 는 CAGT 가 된다. 아래는 코드를 작성한 것이다.
 
 
