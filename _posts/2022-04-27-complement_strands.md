@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[생물정보학 (Bioinformatics)] complement 만들기"
-categories: Python
+categories: Bioinformatics
 tag: [생물정보학, Bioinformatics, complement]
 toc: true
 toc_sticky: true
