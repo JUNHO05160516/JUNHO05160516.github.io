@@ -1,4 +1,18 @@
-## [생물정보학(Bioinformatics)] genetic penetrance 의미
+---
+layout: single
+title:  "[생물정보학(Bioinformatics)] genetic penetrance 의미"
+categories: Python
+tag: [Python, 파이썬, genetic penetrance, SNP, single-nucleotide polymorphisms]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+## genetic penetrance 의미
 Genetic Penetrace 학문용어의 영문판 의미는 아래와 같다.
 
 Genetic Penetrance: The proportion of individuals in a population with a genetic variant who develop the disease associated with that variant. Common single-nucleotide polymorphisms (SNPs) are referred to as low-penetrant, as risk alleles typically confer modest risk.
