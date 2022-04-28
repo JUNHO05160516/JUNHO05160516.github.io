@@ -24,3 +24,5 @@ Genetic Penetrance: The proportion of individuals in a population with a genetic
 common 한 SNP 는 질병에 걸렸든 건강하든지 population 에서 보통 1 % 이상의 비율로 존재한다는 의미이다.
 
 coomon 한 SNP 가 질병과 연관성이 있다는 것은 보통 질병에 대해 낮은 risk 를 가지며 low-penetrant 하다고 한다.
+
+![Screenshot 2019-02-07 at 1-05-52 AM](https://user-images.githubusercontent.com/104074491/165698465-47be3c48-1d45-4e44-b320-e4e872380316.png)
