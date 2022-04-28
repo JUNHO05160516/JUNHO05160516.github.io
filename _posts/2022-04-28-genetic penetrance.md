@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[생물정보학(Bioinformatics)] genetic penetrance 의미"
-categories: Python
+categories: Bioinformatics
 tag: [Python, 파이썬, genetic penetrance, SNP, single-nucleotide polymorphisms]
 toc: true
 toc_sticky: true
