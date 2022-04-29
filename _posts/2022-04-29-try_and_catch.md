@@ -1,4 +1,19 @@
-# [파이썬(Python)] try 와 catch 를 활용한 예외 처리
+---
+layout: single
+title:  "[파이썬(Python)] try 와 catch 를 활용한 예외 처리"
+categories: Python
+tag: [Python, 파이썬, try, except]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+## try 와 catch 를 활용한 예외 처리
 이전 함수 input() 을 사용하여 사용자가 타이핑한 숫자를 읽어 정수로 파싱하는 프로그램 코드를 살펴보았다. 또한 이렇게 코딩하는 것이 얼마나 위험한 것인지도 살펴보았다.
 
 
