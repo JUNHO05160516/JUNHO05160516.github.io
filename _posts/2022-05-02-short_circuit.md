@@ -1,4 +1,21 @@
-## [파이썬(Python)] 논리 연산식의 단락 (short circuit)
+---
+layout: single
+title:  "[파이썬(Python)] 논리 연산식의 단락 (short circuit)"
+categories: Python
+tag: [Python, 파이썬, short circuit]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
+
+## 논리 연산식의 단락 (short circuit)
 x >= 2 and ( x / y ) > 2 와 같은 논리 표현식을 파이썬에서 처리할 때, 왼쪽에서부터 오른쪽으로 표현식을 평가한다. and 정의 때문에 x 가 2 보다 작다면, x >= 2 는 거짓 (False) 으로, 전체적으로 ( x / y ) > 2 가 참 (True) 혹은 거짓 (False) 이냐에 관계없이 거짓 (False) 이 된다.
 
 나머지 논리 표현식을 평가해도 나아지는 것이 없다고 파이썬이 자동으로 탐지할 때,평가를 멈추고 나머지 논리 표현식에 대한 연산도 중지한다. 최종값이 이미 결정되었기 때문에 더 이상의 논리 표현식의 평가가 멈출 때, 이를 단락 (short-citcuiting) 평가 라고 한다.
