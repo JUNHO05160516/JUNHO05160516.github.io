@@ -1,4 +1,18 @@
-## [파이썬(Python)] 자료형 (type) 변환 함수
+---
+layout: single
+title:  "[파이썬(Python)] 자료형 (type) 변환 함수"
+categories: Python
+tag: [Python, 파이썬, type()]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+## 자료형 (type) 변환 함수
 파이썬에는 이런 자료형 (type) 에서 저런 자료형으로 값을 변환하는 내장 함수가 있다. int() 함수는 임의의 값을 입력 받아 변환이 가능하면 정수형으로 변환하고, 그렇지 않으면 오류가 발생한다.
 
 
