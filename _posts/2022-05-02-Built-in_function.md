@@ -1,4 +1,19 @@
-## [파이썬(Python)] 함수 호출과 내장 (Built-in) 함수
+---
+layout: single
+title:  "[파이썬(Python)] 함수 호출과 내장 (Built-in) 함수"
+categories: Python
+tag: [Python, 파이썬, function call, built-in]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+## 함수 호출과 내장 (Built-in) 함수
 
 * 함수 호출
 
