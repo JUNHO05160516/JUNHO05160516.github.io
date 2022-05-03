@@ -1,4 +1,18 @@
-## [파이썬(Python)] 수학 함수
+---
+layout: single
+title:  "[파이썬(Python)] 논리 연산식의 단락 (short circuit)"
+categories: Python
+tag: [Python, 파이썬, import math, math]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+## 수학 함수
 파이썬은 가장 친숙한 수학 함수를 제공하는 수학 모듈이 있다. 수학 모듈을 사용하기 전에, 수학 모듈 가져오기를 실행한다.
 
 
