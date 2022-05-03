@@ -1,3 +1,19 @@
+---
+layout: single
+title:  "[파이썬(Python)] 왜 함수를 사용하는가?"
+categories: Python
+tag: [Python, 파이썬, function in python]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
 ## [파이썬(Python)] 왜 함수를 사용하는가?
 
 프로그램을 함수로 나누는 고생을 할 가지가 있는지 명확하지 않을 수 있다. 다음에 몇 가지 이유가 존재하니 알아보자.
