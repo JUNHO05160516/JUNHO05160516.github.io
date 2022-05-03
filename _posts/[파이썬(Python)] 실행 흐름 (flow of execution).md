@@ -1,4 +1,20 @@
-## [파이썬(Python)] 실행 흐름 (flow of execution)
+---
+layout: single
+title:  "[파이썬(Python)] 실행 흐름 (flow of execution)"
+categories: Python
+tag: [Python, 파이썬, flow of execution]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
+## 실행 흐름 (flow of execution)
 
 처음으로 함수가 사용되기 전에 정의되었는지를 확인하기 위해서, 명령문 실행 순서를 파악해야 하는데 이를 실행 흐름 (flow of execution) 이라고 한다.
 
