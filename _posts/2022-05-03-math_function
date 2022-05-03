@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[파이썬(Python)] 논리 연산식의 단락 (short circuit)"
+title:  "[파이썬(Python)] 수학 함수 (import math)"
 categories: Python
 tag: [Python, 파이썬, import math, math]
 toc: true
