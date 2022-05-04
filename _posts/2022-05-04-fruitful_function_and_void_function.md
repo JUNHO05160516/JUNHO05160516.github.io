@@ -1,4 +1,18 @@
-## [파이썬(Python)] 결과있는 함수 (fruitful function)과 빈 함수(void function)
+---
+layout: single
+title:  "[파이썬(Python)] 결과있는 함수 (fruitful function)과 빈 함수(void function)"
+categories: Python
+tag: [Python, 파이썬, fruitful function, void function]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+## 결과있는 함수 (fruitful function)과 빈 함수(void function)
 수학 함수와 같은 몇몇 함수는 결과를 만들어 낸다. 좀 더 좋은 이름이 없어서, 결과를 만들어 내는 함수를 결과있는 함수 (fruitful functions) 라고 명명한다. 아래와 같은 print_twice() 함수는 print 라는 액션을 수행하지만, 결과를 만들지는 않는 함수를 빈 함수 (void functions) 라고 부른다.
 
 
