@@ -1,4 +1,18 @@
-## [파이썬(Python)] 매개 변수 (parameter)와 인수 (argument)
+---
+layout: single
+title:  "[파이썬(Python)] 매개 변수 (parameter)와 인수 (argument)"
+categories: Python
+tag: [Python, 파이썬, parameter, argument]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+## 매개 변수 (parameter)와 인수 (argument)
 몇몇 내장 함수는 인자를 요구한다. 예를 들어, math.sin() 함수를 호출할 때, 숫자를 인자로 넘겨야 한다. 어떤 함수는 2개 이상의 인수를 받는다. math.pow() 는 밑과 지수 2개의 인자가 필요하다.
 
 인자는 함수 내부에서 매개 변수 (parameters) 로 불리는 변수로 대입된다. 하나의 인자를 받는 사용자 정의 함수 (user-defined function) 가 예제로 있다.
