@@ -1,4 +1,22 @@
-## [파이썬(Python)] 신규 함수 추가
+---
+layout: single
+title:  "[파이썬(Python)] 신규 함수 추가"
+categories: Python
+tag: [Python, 파이썬, function, def]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
+
+
+## 신규 함수 추가
 파이썬 설치 시 함께 있는 함수만 사용하진 않을 것이다. 새로운 함수를 추가하는 것도 가능하다. 함수 정의 (function definition) 는 신규 함수명과 함수가 호출될 때 실행될 열련의 문장을 명세한다. 신규로 함수를 정의하면, 프로그램 실행 중에 반복해서 함수를 재사용할 수 있다. 다음의 예제가 있다.
 
 
