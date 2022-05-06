@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "[자격증(ADP)] 1 과목. 데이터 이해 - 3 장. 데이터의 가치와 미래"
+categories: Python
+tag: [ADP, 자격증, 1 과목, 데이터 이해, 데이터의 가치와 미래]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
 ## 1 과목. 데이터 이해.
 
 ### 3 장. 데이터의 가치와 미래
