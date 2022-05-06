@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[자격증(ADP)] 1 과목. 데이터 이해 - 2. 데이터의 가치와 미래"
-categories: Python
+categories: ADP
 tag: [ADP, 자격증, 1 과목, 데이터 이해, 데이터의 가치와 미래]
 toc: true
 toc_sticky: true
