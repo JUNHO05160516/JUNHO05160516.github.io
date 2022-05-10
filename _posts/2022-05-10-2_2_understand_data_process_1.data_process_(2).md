@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "[자격증(ADP)] 2 과목 2 장. 데이터 처리 기술 이해 :: 데이터 처리 프로세스"
+categories: ADP
+tag: [ADP, 자격증, 2 과목, 데이터 처리 기술 이해, 데이터 처리 프로세스, GFS, HDFS, Lustre]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
 ## 2과목 2장. 데이터 처리 기술 이해 :: 데이터 처리 프로세스
 
 #### 2장. 데이터 처리 기술
