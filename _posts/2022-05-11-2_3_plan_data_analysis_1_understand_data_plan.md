@@ -23,11 +23,6 @@ sidebar:
 |**분석의 방법 (How) O**| Optimization 최적화| Insight 통찰력|
 |**분석의 방법 (HOW) X**| Solution 해결책| Discovery 발견|
 
-
-```python
-3 과목. 데이터 분석 기획. 1 장 데이터 분석 기획의 이해.
-```
-
 **1. 분석 기획 시 고려사항**
 
 - <u>데이터</u>: 데이터 확보, 데이터 유형에 따른 선행 분석
