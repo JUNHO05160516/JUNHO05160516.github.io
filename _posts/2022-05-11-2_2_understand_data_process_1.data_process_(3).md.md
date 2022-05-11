@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "[자격증(ADP)] 2 과목 2 장. 데이터 처리 기술 이해 :: 데이터 처리 프로세스 (2)"
+categories: ADP
+tag: [ADP, 자격증, 2 과목, 데이터 처리 기술 이해, 데이터 처리 프로세스, 데이버베이스 클러스터, 분산 컴퓨팅 기술, 클라우드 인프라 기술]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
 ## 데이터베이스 클러스터
 - DB를 여러 개의 서버가 나눠서 처리하도록
 
