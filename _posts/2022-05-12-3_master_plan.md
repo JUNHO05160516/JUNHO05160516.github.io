@@ -1,3 +1,20 @@
+---
+layout: single
+title:  "[자격증(ADP)] 3 과목. 데이터 분석 기획 2 장. 마스터 플랜"
+categories: ADP
+tag: [ADP, 자격증, 3 과목, 하향식 접근 방식, 분석 마스터 플랜, 분석 거버넌스]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
+
 ## 2장. 분석마스터 플랜
 
 - 분석 기획: 단기적 분석과제 도출 -> 프로젝트화, 관리 -> 분석결과를 도출
