@@ -11,10 +11,6 @@ sidebar:
     nav: "docs"
 ---
 
-
-
-
-
 ## 2장. 분석마스터 플랜
 
 - 분석 기획: 단기적 분석과제 도출 -> 프로젝트화, 관리 -> 분석결과를 도출
@@ -82,11 +78,15 @@ sidebar:
 - 전략적 중요도에 따라 우선순위를 정해서 진행 가능
 - 현업 업무부서의 분석업무와 이중화/이원화 가능성 높음
 
+![집중구조](https://user-images.githubusercontent.com/104074491/167981329-a6351d66-b8d2-4fba-9097-56eaf85276fb.png)
+
 2) 기능구조
 
 - 별도 분석조직 X, 해당 부서에서 분석 수행
 - 전시적 핵심분석이 어렵다.
 - 과거 실적에 국한된 분석가능성 높음
+
+![기능구조](https://user-images.githubusercontent.com/104074491/167981345-a792b060-e9d4-4b5e-8405-77c91c41f41c.png)
 
 3) 분산구조
 
@@ -94,4 +94,8 @@ sidebar:
 - 전사차원의 우선순위 수행
 - 분석결과에 따른 신속한 Action 가능
 - Best Practice 공유 가능
+
+![분산구조](https://user-images.githubusercontent.com/104074491/167981376-1ff01611-0c22-47d9-bc90-c0bbbe559490.png)
+
+
 
