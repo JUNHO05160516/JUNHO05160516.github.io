@@ -1,3 +1,18 @@
+---
+layout: single
+title:  "[자격증(ADP)] 3 과목. 데이터 분석 기획 1장. 분석 과제 발굴"
+categories: ADP
+tag: [ADP, 자격증, 3 과목, 하향식 접근 방식, 상향식 접근 방식, 분석 프로젝트 관리 방안]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
 ## 분석 과제 발굴
 
 ### [하향식 접근 방식: Top down Approach]
