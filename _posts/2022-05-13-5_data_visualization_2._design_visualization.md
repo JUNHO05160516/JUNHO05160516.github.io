@@ -1,3 +1,18 @@
+---
+layout: single
+title:  "[자격증(ADP)] 5 과목. 데이터 시각화 2 장. 시각화 디자인"
+categories: ADP
+tag: [ADP, 자격증, 5 과목, 데이터 시각화, 시각화 디자인]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
 ### 2 장. 시각화 디자인
 
 #### 시각화
