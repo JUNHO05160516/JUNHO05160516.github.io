@@ -1,3 +1,20 @@
+---
+layout: single
+title:  "[자격증(빅분기_실기)] 빅분기 실기 단답형
+categories: 빅분기 실기
+tag: [빅분기 실기, 자격증, 단답형]
+toc: true
+toc_sticky: true
+toc_label: '페이지 주요 목자'
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
+
+
 ### 빅분기 실기 단답형 준비 #1
 
 1) 특정 분류 모델의 성능을 평가하는 지표로, 실제값과 모델이 예측한 예측값을 한 눈에 알아볼 수 있게 배열한 행렬은?
