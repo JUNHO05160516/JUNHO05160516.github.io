@@ -8,7 +8,7 @@ toc_sticky: true
 toc_label: '페이지 주요 목자'
 author_profile: false
 sidebar:
-    nav: "docs"
+nav: "docs"
 ---
 
 ### 빅분기 실기 단답형 준비 #1
