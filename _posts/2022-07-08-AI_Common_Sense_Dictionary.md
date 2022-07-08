@@ -11,6 +11,8 @@ sidebar:
     nav: "docs"
 ---
 
+![책 표지 (앞)](https://user-images.githubusercontent.com/104074491/177994278-0e40d85f-0320-4850-9c0d-20b84916a4fc.jpg)
+![책 표지 (뒤)](https://user-images.githubusercontent.com/104074491/177994390-2f056684-d4eb-4605-8264-ffcb6ca61ac4.jpg)
 
 
 ### [책서평] AI 상식사전 by 한규동 (2022)
@@ -91,6 +93,10 @@ http://ch.yes24.com/Article/View/51020
 
 
 역전파는 출력층에서 입력층까지 되돌아가며 가중치를 서정하는 것을 의미하지만, 때로는 인공 신경망을 학습시키는 과정 전체를 역전파라 하기도 합니다. **역전파의 원리는 이해하기도 어렵고 계산하기도 어렵습니다.** 실제로 인공지능 분야의 전문가 앤드류 응 교수조차 아직 연전파의 세부 내용과 역할에 대해 완전히 이해하지 못했다고 말했을 정도죠 (p. 258).
+
+
+![불편한 골짜기](https://user-images.githubusercontent.com/104074491/177994748-61984fbf-4686-4372-9962-772f35f421c2.jpg)
+![디트머스 인공지능 회의 기념 명판](https://user-images.githubusercontent.com/104074491/177994761-f34fd533-124d-4dff-a052-52cb2b3edaca.jpg)
 
 
 
