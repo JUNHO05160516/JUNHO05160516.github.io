@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[책서평] AI 상식사전 by 한규동 (2022)"
-categories: Big_Data_Certificate
+categories: Book_Review
 tag: [책서평, AI 상식사전, 길벗, 한규동]
 toc: true
 toc_sticky: true
