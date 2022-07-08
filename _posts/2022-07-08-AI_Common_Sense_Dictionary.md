@@ -15,7 +15,7 @@ sidebar:
 ![책 표지 (뒤)](https://user-images.githubusercontent.com/104074491/177994390-2f056684-d4eb-4605-8264-ffcb6ca61ac4.jpg)
 
 
-### [책서평] AI 상식사전 by 한규동 (2022)
+
 
 처음 작성하는 서평 'AI 상식사전'입니다. 출판사 '길벗'으로부터 책을 제공받아 작성했습니다.
 
@@ -37,9 +37,7 @@ sidebar:
 
 
 
-『AI 상식사전』 한규동 저자 인터뷰
-
-http://ch.yes24.com/Article/View/51020
+[『AI 상식사전』 한규동 저자 인터뷰]<http://ch.yes24.com/Article/View/51020>
 
 
 
