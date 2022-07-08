@@ -37,7 +37,7 @@ sidebar:
 
 
 
-[『AI 상식사전』 한규동 저자 인터뷰]<http://ch.yes24.com/Article/View/51020>
+[『AI 상식사전』 한규동 저자 인터뷰] <http://ch.yes24.com/Article/View/51020>
 
 
 
