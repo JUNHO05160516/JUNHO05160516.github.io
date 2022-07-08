@@ -109,6 +109,8 @@ sidebar:
 
 
 
-![디트머스 인공지능 회의 기념 명판](https://user-images.githubusercontent.com/104074491/177994761-f34fd533-124d-4dff-a052-52cb2b3edaca.jpg)
+
+
+![다트머스 인공지능 회의 기념 명판](https://user-images.githubusercontent.com/104074491/178002258-6b9bd269-9cf8-4ef2-822f-1099c70da730.jpg)
 
 
