@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[자격증(빅분기_실기)] 빅분기 실기 단답형
+title:  "[자격증(빅분기_실기)] 빅분기 실기 단답형"
 categories: Big_Data_Certificate
 tag: [빅분기 실기, 자격증, 단답형]
 toc: true
@@ -10,6 +10,8 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
+
+
 
 
 ### 빅분기 실기 단답형 준비 #1
